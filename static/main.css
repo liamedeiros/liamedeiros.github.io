@@ -431,6 +431,8 @@ html body #root { height: 100% }
 .test-gravity-container {
   margin-bottom: 10px;
   flex: 100% 1;
+  display: table;
+  clear: both;
 }
 
 .test-gravity-pic {
